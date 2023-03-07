@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Гений ИдиотConsoleApp2", "Гений ИдиотConsoleApp2\Гений ИдиотConsoleApp2.csproj", "{6E61A010-E5EF-4093-999C-F212D5A117F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E61A010-E5EF-4093-999C-F212D5A117F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E61A010-E5EF-4093-999C-F212D5A117F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E61A010-E5EF-4093-999C-F212D5A117F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E61A010-E5EF-4093-999C-F212D5A117F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48ECBB54-029D-46AA-9BED-DF1703340A61}
+	EndGlobalSection
+EndGlobal
